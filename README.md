@@ -1,4 +1,4 @@
-# Smartphone-OOP-python-project
+# Auto engine OOP python project
 class Engine:
     def __init__(self):
         self.running = False
